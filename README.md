@@ -14,7 +14,13 @@ The project involves setting up **ArangoDB**, an open-source multi-model databas
 - **Scalability and Performance**: Equipped with features like sharding and smart graphs, ArangoDB ensures high performance and scalability for enterprise applications.
 - **Developer Tools**: Offers robust developer tools, including a query language (AQL), a web interface for database management, and support for multiple programming languages.
 
+
+https://github.com/user-attachments/assets/4ed3897a-5cde-4589-b719-9da76a28ae4d
+
+
 ---
 
 ## Conclusion
 This project demonstrated a seamless setup of **ArangoDB** using Docker and accessing it via a localhost connection. It highlights the efficiency of containerized applications and their integration into diverse computing environments, providing valuable insights into Docker's utility for developers and database administrators.
+
+
